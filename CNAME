@@ -1,0 +1,4 @@
+$ dig pdf.epidro.me +nostats +nocomments +nocmd
+;pdf.epidro.me.                 IN      A
+pdf.epidro.me.          3592    IN      CNAME   epidrome.github.io.
+epidrome.github.io.      43192   IN      A       204.232.175.78
